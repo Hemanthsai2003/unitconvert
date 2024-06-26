@@ -5,3 +5,6 @@ Length Conversion: Convert between meters, kilometers, centimeters, and feet.
 Weight Conversion: Convert between kilograms, grams, and pounds.
 Temperature Conversion: Convert between Celsius, Fahrenheit, and Kelvin.
 Area Conversion: Convert between square meters, square kilometers, square feet, square yards, and acres.
+
+Prerequisites
+Python 3.x installed on your system
